@@ -128,45 +128,47 @@
          </div>
          <div type="frontispiece">
             <pb facs="tcp:46420:2"/>
-            <figure>
-               <p>W: Conq:</p>
-            </figure>
-            <figure>
-               <p>K: Will: 2</p>
-            </figure>
-            <figure>
-               <p>K: Hen: 1</p>
-            </figure>
-            <figure>
-               <p>K: Ste:</p>
-            </figure>
-            <figure>
-               <p>K: Hen: 2</p>
-            </figure>
-            <figure>
-               <p>K: Ric: 1</p>
-            </figure>
-            <figure>
-               <p>K: Ioſor:</p>
-            </figure>
-            <figure>
-               <p>K: Hen: 3</p>
-            </figure>
-            <figure>
-               <p>K: Ed: 1</p>
-            </figure>
-            <figure>
-               <p>K: Ed: 2</p>
-            </figure>
-            <figure>
-               <p>K: Ed: 3</p>
-            </figure>
-            <figure>
-               <p>K: Iames. 2.</p>
-            </figure>
-            <figure>
-               <p>K: Rich: 2</p>
-            </figure>
+            <p>
+               <figure>
+                  <p>W: Conq:</p>
+               </figure>
+               <figure>
+                  <p>K: Will: 2</p>
+               </figure>
+               <figure>
+                  <p>K: Hen: 1</p>
+               </figure>
+               <figure>
+                  <p>K: Ste:</p>
+               </figure>
+               <figure>
+                  <p>K: Hen: 2</p>
+               </figure>
+               <figure>
+                  <p>K: Ric: 1</p>
+               </figure>
+               <figure>
+                  <p>K: Ioſor:</p>
+               </figure>
+               <figure>
+                  <p>K: Hen: 3</p>
+               </figure>
+               <figure>
+                  <p>K: Ed: 1</p>
+               </figure>
+               <figure>
+                  <p>K: Ed: 2</p>
+               </figure>
+               <figure>
+                  <p>K: Ed: 3</p>
+               </figure>
+               <figure>
+                  <p>K: Iames. 2.</p>
+               </figure>
+               <figure>
+                  <p>K: Rich: 2</p>
+               </figure>
+            </p>
             <p>
                <hi>England's</hi> Cronicle.</p>
             <figure>
@@ -176,42 +178,44 @@
                <p>Hen: 5</p>
             </figure>
             <p>or the Lives &amp; Reigns of all the KINGS &amp; QUEENS To the preſent Reign of K. William &amp; L. Mary &amp;</p>
-            <figure>
-               <p>K: Hen 6:</p>
-            </figure>
-            <figure>
-               <p>K: Ed: 4</p>
-            </figure>
-            <figure>
-               <p>K: Ed: 6</p>
-            </figure>
-            <figure>
-               <p>K: Hen: 8</p>
-            </figure>
-            <figure>
-               <p>K: Hen: 7</p>
-            </figure>
-            <figure>
-               <p>K: Ric: 3</p>
-            </figure>
-            <figure>
-               <p>K: Ed: 5</p>
-            </figure>
-            <figure>
-               <p>K: Ch: 2</p>
-            </figure>
-            <figure>
-               <p>K: Ch: 1</p>
-            </figure>
-            <figure>
-               <p>K: Iames</p>
-            </figure>
-            <figure>
-               <p>Q: Eliz:</p>
-            </figure>
-            <figure>
-               <p>Q: Mary</p>
-            </figure>
+            <p>
+               <figure>
+                  <p>K: Hen 6:</p>
+               </figure>
+               <figure>
+                  <p>K: Ed: 4</p>
+               </figure>
+               <figure>
+                  <p>K: Ed: 6</p>
+               </figure>
+               <figure>
+                  <p>K: Hen: 8</p>
+               </figure>
+               <figure>
+                  <p>K: Hen: 7</p>
+               </figure>
+               <figure>
+                  <p>K: Ric: 3</p>
+               </figure>
+               <figure>
+                  <p>K: Ed: 5</p>
+               </figure>
+               <figure>
+                  <p>K: Ch: 2</p>
+               </figure>
+               <figure>
+                  <p>K: Ch: 1</p>
+               </figure>
+               <figure>
+                  <p>K: Iames</p>
+               </figure>
+               <figure>
+                  <p>Q: Eliz:</p>
+               </figure>
+               <figure>
+                  <p>Q: Mary</p>
+               </figure>
+            </p>
             <p>Englands fam'd Monarchs, thus pouri<gap reason="illegible" extent="5 letters">
                   <desc>•••••</desc>
                </gap> behold Whose warlike Deeds, this vollume does unfold, For Wisdom and for Valour they were known<g ref="char:punc">▪</g> Each had their Triumphs on the Brittish Throne</p>
